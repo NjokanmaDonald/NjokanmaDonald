@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NjokanmaDonald
 - 👀 I’m interested in coding and building projects
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Fullstack projects and job opportunities 
 - 📫 How to reach me njokanmadon@gmail.com
 
